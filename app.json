@@ -23,8 +23,13 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "scheme": "firstApp",
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
   }
 }
